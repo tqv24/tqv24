@@ -1,5 +1,9 @@
-![banner](https://github.com/tqv24/tqv24/assets/138932271/a8ea2437-3ba2-43ec-b74f-b6d6dc40aad2)
-<!-- <h2 align='center'>Simon Vo @ Simon</h2>
+
+<!-- <h2 align='center'>Simon Vo @ Simon<
+
+https://github.com/tqv24/tqv24/assets/138932271/ef8159f8-fe8a-446d-a55c-29d0c292fcc6
+
+/h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
 <h2>Hey! 👋</h2>
