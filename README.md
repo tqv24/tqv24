@@ -12,6 +12,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 <h2>💻 I'm Currently workng on</h2> 
 - Data and Machine Learning projects on Kaggle <a href="https://www.kaggle.com/simonvo152">Kaggle</a> 📹 
+
 - Hackathon project on Devpost <a href="https://devpost.com/simonvo125">Devpost</a> ✍
 
 
