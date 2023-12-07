@@ -10,8 +10,8 @@ I'm passionate about applying Data Science and Machine Learning to Manufacturing
 To see my profile in detail, I recommend to look at my <a href="https://www.linkedin.com/in/simonvo152/">LinkedIn Profile</a> 💼
 
 <h2>💻 I'm Currently workng on</h2> 
-- <i>Data and Machine Learning projects on Kaggle <a href="https://www.kaggle.com/simonvo152">Kaggle</a><br />
-- <i>Hackathon project on Devpost <a href="https://devpost.com/simonvo125">Devpost</a>
+- <i>Data and Machine Learning projects on Kaggle <a href="https://www.kaggle.com/simonvo152">Kaggle</a> 
+  <br />- <i>Hackathon project on Devpost <a href="https://devpost.com/simonvo125">Devpost</a>
 
 
 
