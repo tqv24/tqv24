@@ -1,4 +1,4 @@
-![Simon Banner](./banner.mvp)
+![Simon Banner](./banner.mp4)
 <!-- <h2 align='center'>Simon Vo @ Simon</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
