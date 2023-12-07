@@ -5,6 +5,21 @@ I'm Truong (Simon) Vo!
 - <i>Previously: BS in Chemical Engineering at Drexel University.
 
 ## ⚡ About me:
+🌍 Nationality: Vietnamese 🇻🇳
+
+👩‍🎓 Background: Chemical Engineer with a passion for Data Science 📊. I'm deeply intrigued by the intersection of data and real-world challenges, and I'm excited to leverage data-driven insights to solve complex problems.
+
+🔬 Data Science Enthusiast: My journey as a Chemical Engineer has equipped me with strong analytical skills, attention to detail, and the ability to work with complex datasets. I've been actively learning and applying data science techniques to various domains, from exploratory data analysis to machine learning.
+
+📊 Skills:
+
+- <i>Data Analysis and Visualization
+- <i>Exploratory Data Analysis (EDA)
+- <i>Data Cleaning and Preprocessing
+- <i>Machine Learning
+- <i>Statistical Analysis
+- <i>Python Programming
+- 
 I'm passionate about applying Data Science and Machine Learning to Manufacturing Industry.<br />Some technologies I enjoy working with include Deep Leanring and Reiforcement Learning on Python.
 To see my profile in detail, I recommend to look at my <a href="https://www.linkedin.com/in/simonvo152/">LinkedIn Profile</a> 💼
 
