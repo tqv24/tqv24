@@ -31,6 +31,8 @@ To see my profile in detail, I recommend to look at my <a href="https://www.link
 <div>
 <!--   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=tqv24)](https://git.io/streak-stats) 
+    
   </p>
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tqv24)](https://git.io/streak-stats) 
+
