@@ -1,4 +1,4 @@
-<h2>👋 Hi, the Internet!
+## 👋 Hi, the Internet!
 ![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/tqv24/tqv24/assets/138932271/25d7b4c0-064e-4b76-8468-04b660404585)
 
 I'm Truong (Simon) Vo! 
