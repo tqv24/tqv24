@@ -27,8 +27,9 @@ To see my profile in detail, I recommend to look at my <a href="https://www.link
 ## 💻 I'm Currently workng on: 
 - Data and Machine Learning projects on Kaggle <a href="https://www.kaggle.com/simonvo152">Kaggle</a> 
 - Hackathon project on Devpost <a href="https://devpost.com/simonvo125">Devpost</a>
-
+<!---
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tqv24" alt="Sublime's custom image"/>
 </p>
 
+--->
