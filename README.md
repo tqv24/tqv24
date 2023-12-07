@@ -8,7 +8,7 @@ To see my profile in detail, I recommend to look at my <a href="https://www.link
 ## ⚡ About me:
 🌍 Nationality: Vietnamese 🇻🇳
 
-👩‍🎓 Background: Chemical Engineer with a passion for Data Science 📊. I'm deeply intrigued by the intersection of data and real-world challenges, and I'm excited to leverage data-driven insights to solve complex problems.
+👨‍🎓 Background: Chemical Engineer with a passion for Data Science 📊. I'm deeply intrigued by the intersection of data and real-world challenges, and I'm excited to leverage data-driven insights to solve complex problems.
 
 🔬 Data Science Enthusiast: My journey as a Chemical Engineer has equipped me with strong analytical skills, attention to detail, and the ability to work with complex datasets. I've been actively learning and applying data science techniques to various domains, from exploratory data analysis to machine learning.
 
