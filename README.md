@@ -30,7 +30,8 @@ To see my profile in detail, I recommend to look at my <a href="https://www.link
 
 
 
-<h1 (or 2 etc.) align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=tqv24)](https://git.io/streak-stats) 
+<h1 (or 2 etc.) align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tqv24)](https://git.io/streak-stats) 
 
 
 
