@@ -19,7 +19,7 @@ I'm Truong (Simon) Vo!
 - <i>Machine Learning
 - <i>Statistical Analysis
 - <i>Python Programming
-- 
+
 I'm passionate about applying Data Science and Machine Learning to Manufacturing Industry.<br />Some technologies I enjoy working with include Deep Leanring and Reiforcement Learning on Python.
 To see my profile in detail, I recommend to look at my <a href="https://www.linkedin.com/in/simonvo152/">LinkedIn Profile</a> 💼
 
