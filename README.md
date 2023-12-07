@@ -29,9 +29,9 @@ To see my profile in detail, I recommend to look at my <a href="https://www.link
 - Hackathon project on Devpost <a href="https://devpost.com/simonvo125">Devpost</a>
 
 
-
-<h1 (or 2 etc.) align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tqv24)](https://git.io/streak-stats) 
-
-
-
+<div>
+<!--   <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=tqv24)](https://git.io/streak-stats) 
+  </p>
+</div>
