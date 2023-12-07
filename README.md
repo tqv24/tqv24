@@ -1,4 +1,4 @@
-![Simon Banner](./banner.mp4)
+![banner](https://github.com/tqv24/tqv24/assets/138932271/a8ea2437-3ba2-43ec-b74f-b6d6dc40aad2)
 <!-- <h2 align='center'>Simon Vo @ Simon</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
