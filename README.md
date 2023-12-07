@@ -28,7 +28,7 @@ To see my profile in detail, I recommend to look at my <a href="https://www.link
 - Data and Machine Learning projects on Kaggle <a href="https://www.kaggle.com/simonvo152">Kaggle</a> 
 - Hackathon project on Devpost <a href="https://devpost.com/simonvo125">Devpost</a>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     [![GitHub Streak](https://streak-stats.demolab.com?user=tqv24)](https://git.io/streak-stats)
 </div>
 
