@@ -21,8 +21,6 @@ To see my profile in detail, I recommend to look at my <a href="https://www.link
 - Statistical Analysis
 - Python Programming
 
-I'm passionate about applying Data Science and Machine Learning to Manufacturing Industry.<br />Some technologies I enjoy working with include Deep Leanring and Reiforcement Learning on Python.
-To see my profile in detail, I recommend to look at my <a href="https://www.linkedin.com/in/simonvo152/">LinkedIn Profile</a> 💼
 
 ## 💻 I'm Currently workng on: 
 - Data and Machine Learning projects on Kaggle <a href="https://www.kaggle.com/simonvo152">Kaggle</a> 
